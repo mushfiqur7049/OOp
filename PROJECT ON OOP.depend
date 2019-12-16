@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1529209821 source:c:\users\dell\desktop\project on oop\main.cpp
+	<iostream>
+	"procedure.h"
+
+1529205386 c:\users\dell\desktop\project on oop\main.h
+	<iostream>
+	<string>
+	<fstream>
+
+1529375010 c:\users\dell\desktop\project on oop\procedure.h
+	"main.h"
+	"insert.h"
+	"Search.h"
+	"delete.h"
+	"update.h"
+	<stdlib.h>
+
+1529247680 source:c:\users\dell\desktop\project on oop\computer.cpp
+	"Computer.h"
+
+1529247505 c:\users\dell\desktop\project on oop\computer.h
+	<iostream>
+	<string>
+
+1529248252 source:c:\users\dell\desktop\project on oop\instructor.cpp
+	"instructor.h"
+
+1529248238 c:\users\dell\desktop\project on oop\instructor.h
+	<iostream>
+	<string>
+	<map>
+	<utility>
+
+1529377723 source:c:\users\dell\desktop\project on oop\procedure.cpp
+	"procedure.h"
+
+1529387087 source:c:\users\dell\desktop\project on oop\storage.cpp
+	"storage.h"
+
+1529285694 c:\users\dell\desktop\project on oop\storage.h
+	"childclass.h"
+	"procedure.h"
+	"instructor.h"
+	"main.h"
+	"delete.h"
+	<fstream>
+
+1529740825 source:c:\users\dell\desktop\project on oop\childclass.cpp
+	"childclass.h"
+	"main.h"
+
+1529740880 c:\users\dell\desktop\project on oop\childclass.h
+	"Computer.h"
+	"main.h"
+
+1529388296 source:c:\users\dell\desktop\project on oop\insert.cpp
+	"insert.h"
+
+1529208250 c:\users\dell\desktop\project on oop\insert.h
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	"childclass.h"
+	"procedure.h"
+
+1529246559 c:\users\dell\desktop\project on oop\search.h
+	<stdlib.h>
+	"childclass.h"
+	"storage.h"
+	<vector>
+
+1529388638 source:c:\users\dell\desktop\project on oop\search.cpp
+	"Search.h"
+
+1529285694 c:\users\dell\desktop\project on oop\delete.h
+	<string>
+	<fstream>
+	<vector>
+	"childclass.h"
+	"procedure.h"
+
+1529388296 source:c:\users\dell\desktop\project on oop\delete.cpp
+	"delete.h"
+
+1529358806 c:\users\dell\desktop\project on oop\show.h
+	"main.h"
+	"childclass.h"
+	<vector>
+	<algorithm>
+	"procedure.h"
+
+1529375010 c:\users\dell\desktop\project on oop\update.h
+	<vector>
+	<fstream>
+	"childclass.h"
+	<string>
+	"procedure.h"
+
+1529388296 source:c:\users\dell\desktop\project on oop\update.cpp
+	"update.h"
+
+1529740825 source:c:\users\dell\desktop\sottojit 11111\project on oop\childclass.cpp
+	"childclass.h"
+	"main.h"
+
+1529740880 c:\users\dell\desktop\sottojit 11111\project on oop\childclass.h
+	"Computer.h"
+	"main.h"
+
+1529247505 c:\users\dell\desktop\sottojit 11111\project on oop\computer.h
+	<iostream>
+	<string>
+
+1529205386 c:\users\dell\desktop\sottojit 11111\project on oop\main.h
+	<iostream>
+	<string>
+	<fstream>
+
+1529247680 source:c:\users\dell\desktop\sottojit 11111\project on oop\computer.cpp
+	"Computer.h"
+
+1529388296 source:c:\users\dell\desktop\sottojit 11111\project on oop\delete.cpp
+	"delete.h"
+
+1529285694 c:\users\dell\desktop\sottojit 11111\project on oop\delete.h
+	<string>
+	<fstream>
+	<vector>
+	"childclass.h"
+	"procedure.h"
+
+1529375010 c:\users\dell\desktop\sottojit 11111\project on oop\procedure.h
+	"main.h"
+	"insert.h"
+	"Search.h"
+	"delete.h"
+	"update.h"
+	<stdlib.h>
+
+1529208250 c:\users\dell\desktop\sottojit 11111\project on oop\insert.h
+	<stdlib.h>
+	<iomanip>
+	<vector>
+	"childclass.h"
+	"procedure.h"
+
+1529246559 c:\users\dell\desktop\sottojit 11111\project on oop\search.h
+	<stdlib.h>
+	"childclass.h"
+	"storage.h"
+	<vector>
+
+1529285694 c:\users\dell\desktop\sottojit 11111\project on oop\storage.h
+	"childclass.h"
+	"procedure.h"
+	"instructor.h"
+	"main.h"
+	"delete.h"
+	<fstream>
+
+1529248238 c:\users\dell\desktop\sottojit 11111\project on oop\instructor.h
+	<iostream>
+	<string>
+	<map>
+	<utility>
+
+1529375010 c:\users\dell\desktop\sottojit 11111\project on oop\update.h
+	<vector>
+	<fstream>
+	"childclass.h"
+	<string>
+	"procedure.h"
+
+1529747931 source:c:\users\dell\desktop\sottojit 11111\project on oop\insert.cpp
+	"insert.h"
+
+1529248252 source:c:\users\dell\desktop\sottojit 11111\project on oop\instructor.cpp
+	"instructor.h"
+
+1529209821 source:c:\users\dell\desktop\sottojit 11111\project on oop\main.cpp
+	<iostream>
+	"procedure.h"
+
+1529377723 source:c:\users\dell\desktop\sottojit 11111\project on oop\procedure.cpp
+	"procedure.h"
+
+1529388638 source:c:\users\dell\desktop\sottojit 11111\project on oop\search.cpp
+	"Search.h"
+
+1529387087 source:c:\users\dell\desktop\sottojit 11111\project on oop\storage.cpp
+	"storage.h"
+
+1529388296 source:c:\users\dell\desktop\sottojit 11111\project on oop\update.cpp
+	"update.h"
+

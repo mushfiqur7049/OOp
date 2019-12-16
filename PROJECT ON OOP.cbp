@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROJECT ON OOP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROJECT ON OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROJECT ON OOP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Computer.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Computer.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Search.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Search.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="childclass.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="childclass.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="delete.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="delete.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="insert.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="insert.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="instructor.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="instructor.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="main.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="procedure.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="procedure.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="storage.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="storage.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="update.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="update.h">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
